@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## Redesigned outdated website - FJU alumi systen webpage
 
-You can use the [editor on GitHub](https://github.com/chiayi0327/hw/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The outdated webpage is not user-friendly. When you want to find information in this webpage, you always have to link to other tab to find out the link. Therefore, I decide to redesign the UI for this system.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Outlook
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. This is the index page I made.
+<p align="center">
+   <img src="oc-image/1.png" width="75%" height="75%">
+</p>
 
-```markdown
-Syntax highlighted code block
+2. In Hiring page, you can see there some companies icon you can edit. Also, there are some links you can link to.
+<p align="center">
+   <img src="oc-image/2.png" width="75%" height="75%">
+</p>
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/chiayi0327/hw/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+3. There are still some pages need to redesigned. So I redesigned this page like this.
+<p align="center">
+   <img src="oc-image/3.png" width="75%" height="75%">
+</p>
